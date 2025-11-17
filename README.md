@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning everything<br>🎯 Goals: Software Engineering <br>🎲My [Resume](https://jannatmawya.github.io/jannatmawya/) </p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning everything<br>🎯 Goals: Software Engineering <br>🎲 My <a href="https://jannatmawya.github.io/jannatmawya" target="_blank">Resume</a>
+ </p>
 
 ###
 
